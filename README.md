@@ -1,16 +1,13 @@
-## Hi there 👋
+Stefano Delmonte
 
-<!--
-**stefanodelmonte/stefanodelmonte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador en formación apasionado por la tecnología.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+En este perfil de GitHub encontrarás proyectos académicos desarrollados durante mis estudios, así como proyectos personales
+Estudiante de DAM en La Salle Tarragona 
+Tecnologías
+Lenguajes: Java, JavaScript, SQL
+Bases de datos: PostgreSQL
+Sistemas empresariales: Odoo
+Herramientas: Git, Visual Studio Code
+Idiomas: Español, Catalán, Inglés, Italiano
+Mi objetivo es realizar prácticas en empresas tecnológicas de Tarragona para consolidar mis habilidades como desarrollador multiplataforma.
