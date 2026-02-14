@@ -1,6 +1,6 @@
-Stefano Delmonte, estudiante de DAM en La Salle Tarragona
+Estudiante de DAM en La Salle Tarragona :)
 
-Desarrollador en formación apasionado por la tecnología.
+Desarrollador en formación
 
 En este perfil de GitHub encontrarás proyectos académicos desarrollados durante mis estudios, así como proyectos personales
 
