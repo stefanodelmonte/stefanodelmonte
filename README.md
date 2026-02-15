@@ -4,7 +4,7 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en La Salle T
 
 ##  Aprendiendo
 
-**Lenguajes:** Java · JavaScript · HTML · CSS · SQL  
+**Lenguajes:** Java · JavaScript · SQL  
 **Backend:** Spring Boot · PostgreSQL · MySQL  
 **Herramientas:** Git · Linux (RHEL) · Apache · Odoo ERP  
 
