@@ -23,6 +23,6 @@ Español · Català · English · Italiano
 ### Contacto
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-1a1a1a?style=flat-square&logo=astro&logoColor=white)](https://stefanodelmonte.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_USUARIO)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/delmontestefano)
 [![GitHub](https://img.shields.io/badge/-GitHub-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/stefanodelmonte)
-[![Email](https://img.shields.io/badge/-Email-1a1a1a?style=flat-square&logo=gmail&logoColor=white)](mailto:TU_EMAIL)
+[![Email](https://img.shields.io/badge/-Email-1a1a1a?style=flat-square&logo=gmail&logoColor=white)](mailto:sdelmonteperez@gmail.com)
