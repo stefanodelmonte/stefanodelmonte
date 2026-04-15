@@ -1,6 +1,6 @@
 # Hola, soy Stefano Delmonte 
 
-Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en La Salle Tarragona. Me apasiona la tecnología y el desarrollo de software, y estoy en pleno camino de formación para convertirme en desarrollador.
+Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en La Salle Tarragona. Me apasiona la tecnología y el desarrollo de software,  estoy formándome para convertirme en desarrollador.
 
 ##  Idiomas
 
