@@ -1,6 +1,6 @@
 # Hola, soy Stefano Delmonte
 
-Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en La Salle Tarragona. Me interesa el backend con Java y Spring Boot, y construyo herramientas reales — como el TPV de la tienda familiar — para aprender resolviendo problemas.
+Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en La Salle Tarragona. 
 
 ---
 
