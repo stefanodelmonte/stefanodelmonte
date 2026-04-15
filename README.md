@@ -2,6 +2,10 @@
 
 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en La Salle Tarragona. Me apasiona la tecnología y el desarrollo de software,  estoy formándome para convertirme en desarrollador.
 
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,astro,nodejs,spring,mysql,postgres,git,github,linux,bash,vscode,idea&perline=8" />
+</a>
+
 ##  Idiomas
 
 Español · Català · English · Italiano
