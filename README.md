@@ -2,12 +2,6 @@
 
 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en La Salle Tarragona. Me apasiona la tecnología y el desarrollo de software, y estoy en pleno camino de formación para convertirme en desarrollador.
 
-##  Aprendiendo
-
-**Lenguajes:** Java · JavaScript · SQL  
-**Backend:** Spring Boot · PostgreSQL · MySQL  
-**Herramientas:** Git · Linux (RHEL) · Apache · Odoo ERP  
-
 ##  Idiomas
 
 Español · Català · English · Italiano
@@ -20,4 +14,3 @@ Español · Català · English · Italiano
 
 ---
 
-*Siempre abierto a colaborar en proyectos interesantes y a aprender algo nuevo.*
